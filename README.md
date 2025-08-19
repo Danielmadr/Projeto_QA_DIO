@@ -1,4 +1,4 @@
-# Documentação do Desafio de Projeto DIO
+# Desafio QA DIO
 
 Este repositório contém a documentação desenvolvida como parte de um desafio de projeto, abrangendo o fluxo de trabalho de desenvolvimento, ciclo de vida de bugs, User Stories e documentos de teste. Todos os documentos foram gerados em formato PDF, e o Mind Map em PNG.
 
